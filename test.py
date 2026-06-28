@@ -1,4 +1,4 @@
 print("This is a test file")
 
 def test_me():
-    return "Tested"
+    return "Im from master, So test me"
